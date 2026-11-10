@@ -50,3 +50,9 @@ OCI 镜像的 tar 结构、两条独立的引用链、三个报错信息不说�
 ## 许可
 
 工具 MIT。文章 CC BY-NC 4.0。
+
+---
+
+## 相关项目
+
+- [media-cms](https://github.com/xhdyycx/media-cms) — 自托管媒体库协同系统，本文的 OCI 镜像分析与 Pyarmor 还原方法就是在这个项目上练出来的
